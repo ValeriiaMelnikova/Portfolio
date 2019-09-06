@@ -19,9 +19,9 @@ Site structure
 ----- | ------------------------------------ | --------------------------------------
 1     | About us                             | О нас
 2     | Current and finished projects        | Текущие и завершённые проекты 
-3     | Partners                             | Партнёры
-4     | Contacts                             | Контакты
-5     | Computational resources              | Вычислительные ресурсы
+3     | Computational resources              | Вычислительные ресурсы
+4     | Partners                             | Партнёры
+5     | Contacts                             | Контакты
 
 
 Уровень 2, Раздел 2 - Our works
@@ -31,9 +31,8 @@ Site structure
 1     | Simulations                          | Результаты моделирования
 2     | Publications                         | Труды и публикации
 3     | Software                             | Разработанное программное обеспечение
-4     | Training                             | Учебные материалы
-5     | Verification                         | Верификация
-
+4     | Verification                         | Верификация
+5     | Training                             | Учебные материалы
 
 Уровень 2, Раздел 3 - Training & Resources
 ----------------------------------------------------------------------------------
